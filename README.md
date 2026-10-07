@@ -1,4 +1,4 @@
-## Hi there 👋
+![image alt](https://github.com/aphaerith/aphaerith/blob/a57c02b5830e424cbf7b73b2a1864921aef7563e/plsss.png)
 
 <!--
 **aphaerith/aphaerith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
